@@ -10,7 +10,7 @@ tagline: 路漫漫其修远兮，吾将上下而求索
 features: # 可选的
   - title: 前端
     details: JavaScript、ES6、Vue框架等前端技术
-    link: /web/ # 可选
+    link: /web1/ # 可选
     imgUrl: /img/web.png # 可选
   - title: 页面
     details: html(5)/css(3)，前端页面相关技术
